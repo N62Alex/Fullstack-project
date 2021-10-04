@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://flatline:1349Garmin6x@cluster0.p6s2h.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "garmin suunto creative",
+  "baseUrl" : "http://localhost:5000"
+}
